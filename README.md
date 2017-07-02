@@ -21,7 +21,7 @@ How to Enter DFU Without using Home or Sleep Buttons for iPod Touch 2G
  - Open iR3C (Mac) / RecBoot (Windows)
  - Click Enter Recovery
  - Open iTunes
- - Press and Hold Shift (Mac) / Option (Windows) and click restore
+ - Press and Hold Option (Mac) / Shift (Windows) and click restore
  - Find and Select DFU.ipsw (* Or the iPSW Created earlier with Redsn0w ^^^^^^^)
  - Wait until iTunes throws an error and device appears to be in DFU Mode
  - Have Questions ? DM Me @shmadul on twitter (https://twitter.com/shmadul)
