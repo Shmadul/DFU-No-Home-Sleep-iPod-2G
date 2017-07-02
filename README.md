@@ -1,7 +1,7 @@
 # DFU-No-Home-Sleep-iPod-2G
 How to Enter DFU Without using Home or Sleep Buttons for iPod Touch 2G 
 - Plug iPod into Computer
- - Download:
+ - Download: 
  http://bit.ly/iR3C_MAC (Mac)  
  http://bit.ly/RECBOOTWindows (Windows)
  - Then Download DFU.ipsw:
